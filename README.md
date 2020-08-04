@@ -71,7 +71,7 @@ this map view is inherited from google map view so you can customize it as you w
         
    ```
    
- the sdk prvoid full custmazation on the markers (pickup, driver and customer) so you can add it through xml or in the kotlin/java code
+ the sdk prvoid full customization on the markers (pickup, driver and customer) so you can add it through xml or in the kotlin/java code
  
  
  
@@ -141,4 +141,7 @@ you can read markers from web using this line of code:
 trakingMap.usingMarkerFromUrl(true)
 
 ```
+
+
+
 
