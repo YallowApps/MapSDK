@@ -31,7 +31,7 @@ dependencies {
 ```
 now your gradle is ready.
 
-## Application setup:
+## Application setup
 in your application class add these line of code if you don't have an application class add it in your first activity 
 
 ```
