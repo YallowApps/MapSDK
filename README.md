@@ -13,7 +13,6 @@ allprojects {
     repositories {
         google()
         jcenter()
-        maven { url "https://dl.bintray.com/yallow/YallowSDK" } // add this line 
         maven { url "https://dl.bintray.com/yallow/YallowMapSDK/" } // and this line
     }
 }
@@ -25,7 +24,6 @@ allprojects {
 
 dependencies {  
      // your own dependencies
-     implementation 'com.yallow:YallowSDK:0.0.31'
     implementation 'com.yallow:YallowMapSDK:0.0.28'
 
    
