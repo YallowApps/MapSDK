@@ -1,8 +1,4 @@
-# Yallow MapSDK Tracking for android
-
-## Introduction 
-this documentation is describe how to connect your android application with Yallow map sdk tracking. this library provide map view with full tracking of your order, you can use it as a view and customize it as you want. 
-first you should have an `api key` provided from Yellow company **if you don't have one please contact with our sales team on this website https://www.yallow.com/contact.**
+This document describes how to connect your android application with Yallow map SDK tracking. this library provides map view with full tracking of your order, you can use it as a view and customize it as you want. first, you should have an API key provided from Yellow company **if you don't have one please contact our sales team on this website https://www.yallow.com/contact.**
 
 
 ## Gradle setup
@@ -71,7 +67,7 @@ this map view is inherited from google map view so you can customize it as you w
         
    ```
    
- the sdk prvoid full customization on the markers (pickup, driver and customer) so you can add it through xml or in the kotlin/java code
+SDK provides full customization on the markers (pickup, driver and customer) so you can add it through xml or in the kotlin/java code
  
  
  
